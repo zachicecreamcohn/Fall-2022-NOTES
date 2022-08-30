@@ -23,5 +23,12 @@
 
 ### Data Structures and Algorithms
 - [ ] _Due Wednesday, 8/31/22 (by nighttime)_
-  - [ ] Make sure I have access to online textbook
+  - [x] Make sure I have access to online textbook
   - [ ] Complete the pre-studio prep list
+  - [ ] M0: Pre Lecture
+    - Sections 1.3-1.7
+  - [ ] M0: Lecture: Problems and Algorithms
+  - [ ] M0: Pre Studio Prep and Setup/Policies (quiz)
+
+- [ ] _Due Thursday, 9/1/22_
+  - [ ] M0: Studio
