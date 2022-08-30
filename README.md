@@ -12,14 +12,17 @@
 
 
 ## Homework
+
 ### Calculus
 - [ ] _Due Wednesday, 8/31/22_
-  - [ ] Read 1.1 of textbook
-  - [ ] Read Syllabus
+  - [ ] Read and take notes on section 1.1 of textbook
+  - [x] Read Syllabus
 - [ ] _Due Monday (weekly)_
   - [ ] Watch Friday recorded Lecture
 - [ ] _Due Sunday (weekly)_
   - [ ] Complete post-Friday lecture quiz on Canvas
+- [ ] _Due Monday (weekly)_
+  - [ ] Webwork
 
 ### Intro to Psychology
 - [ ] _Due Wednesday, 8/31/22_
@@ -47,4 +50,7 @@
 - [ ] _Due Tuesday, 9/5/22_
   - [ ] Buy *<u>The Norton Anthology of Drama</u>*
 - [ ] Buy the other books listed on Canvas
-- 
+
+#### Intro to Theater Production
+- [ ] _Due September 4th_
+  - [ ] Fill out crew form again with new conflicts
