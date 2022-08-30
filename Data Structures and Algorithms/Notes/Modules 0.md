@@ -75,3 +75,21 @@
 
 ## 1.5 Applications of ADTs
 
+### Standard Libraries in various programming languages
+| Programming Language | Library                         | Common supported ADTs                       |
+|----------------------|---------------------------------|---------------------------------------------|
+| Python               | Python standard library         | list, set dict, deque                       |
+| C++                  | Standard template library (STL) | vector, list, deque, queue, stack, set, map |
+| Java                 | Java collecions framework (JSF) | Collection, Set, List, Map, Queue, Deque    |
+
+
+## 1.6 Sorting: Introduction
+- <u>Sorting</u>
+  - The process of converting a list of elements into ascending (or descending) order
+  - Because the program can't "see" the entire list, it needs to move in simpler steps, typically observing or swapping just two elements at a time.
+
+## 1.7 Selection sort
+- <u>Selection Sort</u>
+  - A sorting algorithm that treats the input as two parts, a sorted part and an unsorted part, and repeatedly selects the proper next valye to move from the unsorted part to the end of the sorted part.
+  - O(N^2)
+- 
