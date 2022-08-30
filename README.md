@@ -16,6 +16,9 @@
 - [ ] _Due Wednesday, 8/31/22_
   - [ ] Read 1.1 of textbook
   - [ ] Read Syllabus
+- [ ] _Due Monday (weekly)_
+  - [ ] Watch Friday recorded Lecture
+  - [ ] Complete post-Friday lecture quiz on Canvas
 
 ### Intro to Psychology
 - [ ] _Due Wednesday, 8/31/22_
