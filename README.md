@@ -9,6 +9,8 @@
 #### [Theatre Culture Studies III: Melodrama to Modernism](/Theatre%20Culture%20Studies%20III/Notes)
 #### [Intro to Theatre Production](/Intro%20to%20Theatre%20Production/Notes)
 #### [Data Structures and Algorithms](/Data%20Structures%20and%20Algorithms/Notes)
+
+
 ## Homework
 ### Calculus
 - [ ] _Due Wednesday, 8/31/22_
@@ -25,8 +27,8 @@
 - [ ] _Due Wednesday, 8/31/22 (by nighttime)_
   - [x] Make sure I have access to online textbook
   - [ ] Complete the pre-studio prep list
-  - [ ] M0: Pre Lecture
-    - Sections 1.5-1.7
+  - [x] M0: Pre Lecture
+  - [x] M0: Extra Credit Reading
   - [ ] M0: Lecture: Problems and Algorithms
   - [ ] M0: Pre Studio Prep and Setup/Policies (quiz)
 

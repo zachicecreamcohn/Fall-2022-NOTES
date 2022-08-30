@@ -80,7 +80,7 @@
 |----------------------|---------------------------------|---------------------------------------------|
 | Python               | Python standard library         | list, set dict, deque                       |
 | C++                  | Standard template library (STL) | vector, list, deque, queue, stack, set, map |
-| Java                 | Java collecions framework (JSF) | Collection, Set, List, Map, Queue, Deque    |
+| Java                 | Java collections framework (JSF) | Collection, Set, List, Map, Queue, Deque    |
 
 
 ## 1.6 Sorting: Introduction
