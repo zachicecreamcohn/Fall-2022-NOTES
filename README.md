@@ -15,3 +15,9 @@
   - [ ] Read 1.1 of textbook
   - [ ] Read Syllabus
 
+### Intro to Psychology
+- [ ] _Due Wednesday, 8/31/22_
+  - [ ] Read syllabus
+  - [ ] Buy ebook textbook
+  - [ ] Read first chapter of textbook
+
