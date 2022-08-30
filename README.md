@@ -26,7 +26,7 @@
   - [x] Make sure I have access to online textbook
   - [ ] Complete the pre-studio prep list
   - [ ] M0: Pre Lecture
-    - Sections 1.3-1.7
+    - Sections 1.5-1.7
   - [ ] M0: Lecture: Problems and Algorithms
   - [ ] M0: Pre Studio Prep and Setup/Policies (quiz)
 

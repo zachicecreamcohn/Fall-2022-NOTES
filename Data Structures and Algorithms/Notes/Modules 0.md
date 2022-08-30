@@ -46,3 +46,32 @@
 
 - An <u>efficient algorithm</u> is one whose runtime increases no more than polynomially with respect to input size. 
 - An <u>inefficient algorithm</u> is one whose runtime increases exponentially with respect to input size.
+
+
+## 1.3 Relation between data structures and algorithms
+- Return first item
+  - Linked list : `list->head`
+  - Array : `array[0]`
+
+## 1.4 Abstract data types
+- <u>Abstract data type (ADT)<u>
+  - data type described by predefined user operations without indicating how each operation is implemented.
+  - A programmer does not need to know the underlying implementation of the list ADT in order to use a list.
+
+### Common ADTs
+| Abstract Data Type (ADT) | Description                                                                                                                                | Common underlying data structure |
+|--------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|
+| List                     | ADT for holding ordered data                                                                                                               | Array, linked list               |
+| Dynamic Array            | ADT for holding ordered data _and allowing indexed access_                                                                                 | Array                            |
+| Stack                    | ADT in which items are only inserted or removed from the top of a stack                                                                    | Linked list                      |
+| Queue                    | ADT in which items are inserted at the end of the queue and removed from the front of the queue                                            | Linked list                      |
+| Deque                    | (doubled ended queue), ADT in which items can be inserted nad removed from both the front and back                                         | Linked list                      | 
+| Bag                      | ADT for storing items in which the order does not matter and duplicate items are allowed                                                   | Array, linked list               |
+| Set                      | ADT for a collection of distinct items                                                                                                     | Binary search tree, hash table   |
+| Priority queue           | A queue where each item has a priority, and items with higher priority are closer to the front of the queue than items with lower priority | Heap                             |
+| Dictionary (map)         | ADT that associates (or maps) keys with values                                                                                             | Hash table, binary search tree   | 
+
+
+
+## 1.5 Applications of ADTs
+
