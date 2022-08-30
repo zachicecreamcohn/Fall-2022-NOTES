@@ -18,6 +18,7 @@
   - [ ] Read Syllabus
 - [ ] _Due Monday (weekly)_
   - [ ] Watch Friday recorded Lecture
+- [ ] _Due Sunday (weekly)_
   - [ ] Complete post-Friday lecture quiz on Canvas
 
 ### Intro to Psychology
