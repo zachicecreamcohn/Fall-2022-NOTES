@@ -27,7 +27,28 @@
 ### Psychology's First Schools of Thought
 - <u>Structuralism</u>
   - Pioneered by <u>Edward Bradford Titchener</u>
-  - Aimed to classify and understand the mind's structure via introspection
+  - Aimed to classify and understand the mind's structure
+    - Breaking things down into component parts
+    - Often uses introspection
+  - Break behavior or subjective experience into component parts and see how they fit together
+    - _Example: How long does it take to make a decision?_
+      - Can't time individual mental processes
+      - Start with simple task involving decision
+          - <u>Choice reaction time experiment</u>
+            - See either `+` or `-` sign on computer screen
+            - If you see `+` press the `A` key. If you see `-` press the `L` key
+      - Break things into component parts (Complex Reaction/Task)
+        - Detect visual info and send to brain
+        - Decide if it was `+` or `-`
+        - Brain sends signal to press either `A` or `L`
+        - _How long did that take?_
+      - Similar task (Simple Reaction/Task)
+        - Press `A` as soon as you see either a `+` or `-`
+        - Component parts
+          - Detect visual info and send to brain
+          - _no decision needs to be made_
+          - Brain sends signal to press `A` key
+      - Time both tasks and find difference between complex and simple reaction time to get the decision time.
 
 - <u>Functionalism</u>
   - Pioneered by <u>William James</u>
