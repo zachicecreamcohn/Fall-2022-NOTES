@@ -25,7 +25,7 @@
 - [ ] _Due Wednesday, 8/31/22_
   - [ ] Read syllabus
   - [x] Buy ebook textbook
-  - [ ] Read first chapter of textbook
+  - [ ] Read modules 1 and 2 of textbook
 
 ### Data Structures and Algorithms
 - [ ] _Due Wednesday, 8/31/22 (by nighttime)_
