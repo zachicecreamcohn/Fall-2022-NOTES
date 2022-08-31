@@ -18,11 +18,75 @@
 ### Psychology's First Laboratory
 - December 1879, in Germany
   - <u>Wilhelm Wundt</u>
-    - Created a machine to measure how long it took for a person to hit a telegraph key after a ball hit a platform
-      - When asked to hit key when sound occured, people responded in 1/10th of a second.
-      - When asked to hit key when consciously aware of hearing the sound, 2/10th of a second.
-    - Saught to measure "atoms of the mind"
+    - Opened the first psychological laboratory. Referred to as the "start of scientific psychology"
+      - Created a machine to measure how long it took for a person to hit a telegraph key after a ball hit a platform
+        - When asked to hit key when sound occured, people responded in 1/10th of a second.
+        - When asked to hit key when consciously aware of hearing the sound, 2/10th of a second.
+      - Saught to measure "atoms of the mind"
 
 ### Psychology's First Schools of Thought
 - <u>Structuralism</u>
+  - Pioneered by <u>Edward Bradford Titchener</u>
+  - Aimed to classify and understand the mind's structure via introspection
+
 - <u>Functionalism</u>
+  - Pioneered by <u>William James</u>
+  - The idea that the functions of the mind came about through adaptation
+  - 
+
+### Psychology's First Women
+- <u>Mary Whiton Calkins</u>
+  - In 1890, 30 years before american women's right to vote
+    - William James admitted Calkins into his graduate seminar
+      - Every other student (all men) dropped out, so James tutored her alone.
+    - Earned a Ph.D from Harvard, but the school refused to give it her. They offered her a doctorate from Radcliffe, but she refused it.
+  - In 1905, she became the first female president of the American Psychological Association (APA)
+
+- <u>Margaret Floy Washburn</u>
+  - First (official) female psychology Ph.D.
+  - In 1921, the second female APA president 
+  - Wrote _The Animal Mind_
+
+
+## Psychological Science Matures
+
+- <u>Behaviorism</u>
+  - The idea that psychology should be based on human behavior since it is conditioned.
+- <u>Freudian (Psychoanalytic) Psychology</u>
+  - emphasized the ways the unconscoius mind and childhood/past experiences affect our behavior.
+- <u>Humanistic Psychology</u>
+  - Led by Carl Rogers and Abraham Maslow
+    - Found behaviorism and freudian psychology limiting
+    - focused on our **growth potential, needs for love and acceptance, and environments that nurture or limit personal growth**
+
+## Contemporary Psychology
+- <u>Cognitive Revolution</u>
+  - 1960s
+  - The marriage of cognitive psychology (science of mind) and neuroscience (science of brain) gave birth to <u>Cognitive Neuroscience</u>
+    - Studies brain activities underlying mental activity
+- <u>Psychology</u>
+  - Science of behavior and mental processes
+
+### Evolutionary Psychology and Behavior Genetics
+- <u>Plato</u>
+  - Assumed that we inherit character and intelligence, that certain ideas are inborn
+- <u>Aristotle</u>
+  - Believed there is nothing in the mind that does not first come from external world, via senses
+- <u>John Locke</u>
+  - Argued mind is a blank slate on which experience writes
+- <u>René Descartes</u>
+  - Believed _some_ ideas are innate
+
+### Cross-Cultural and Gender Psychology
+- <u>WEIRD cultures</u>
+  - Western, Educated, Industrialized, Rich, and Democratic
+
+### Positive Psychology
+- <u>Martin Seligman (and others)</u>
+  - Called for research on <u>Human Flourishing</u>
+    - Understanding nd developing emotions and trains that help us survive
+      - Called their appraoch <u>Positive Psychology</u>
+        - The idea that happiness is a by-product of a pleasent, engaged, and meaningful life
+
+
+##
