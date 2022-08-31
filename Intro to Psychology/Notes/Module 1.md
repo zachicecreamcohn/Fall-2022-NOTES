@@ -53,7 +53,9 @@
 - <u>Functionalism</u>
   - Pioneered by <u>William James</u>
   - The idea that the functions of the mind came about through adaptation
-  - 
+  - "How does behavior serve evolutionary principles"
+  - Major influence
+    - Darwin, Evolution
 
 ### Psychology's First Women
 - <u>Mary Whiton Calkins</u>

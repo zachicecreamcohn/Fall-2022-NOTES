@@ -26,6 +26,7 @@
   - [ ] Read syllabus
   - [x] Buy ebook textbook
   - [ ] Read from page 14-end of module 1 of textbook
+- [ ] _Due Friday, 9/2/22
   - [ ] Read module 2 of textbook
 
 ### Data Structures and Algorithms
