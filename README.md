@@ -51,3 +51,8 @@
 ### Intro to Theater Production
 - [ ] _Due September 4th_
   - [ ] Fill out crew form again with new conflicts
+
+
+### Let's Eat
+- [ ] _Due Sunday, September 4th_
+  - [ ] Use Naomi's prod calendar to make production deadlines.
