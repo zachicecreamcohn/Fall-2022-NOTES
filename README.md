@@ -14,9 +14,6 @@
 ## Homework
 
 ### Calculus
-- [ ] _Due Wednesday, 8/31/22_
-  - [ ] Read and take notes on section 1.1 of textbook
-  - [x] Read Syllabus
 - [ ] _Due Monday (weekly)_
   - [ ] Watch Friday recorded Lecture
 - [ ] _Due Sunday (weekly)_
@@ -27,7 +24,7 @@
 ### Intro to Psychology
 - [ ] _Due Wednesday, 8/31/22_
   - [ ] Read syllabus
-  - [ ] Buy ebook textbook
+  - [x] Buy ebook textbook
   - [ ] Read first chapter of textbook
 
 ### Data Structures and Algorithms
