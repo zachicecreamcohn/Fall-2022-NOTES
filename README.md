@@ -44,9 +44,7 @@
   - [ ] Go over the assignment calendar and put them all here
 - [ ] _Due Thursday, 9/1/22_
   - [ ] Complete discussion post assignment ("Week 1: Romanticism") on Canvas
-- [ ] _Due Tuesday, 9/5/22_
-  - [ ] Buy *<u>The Norton Anthology of Drama</u>*
-- [ ] Buy the other books listed on Canvas
+
 
 ### Intro to Theater Production
 - [ ] _Due September 4th_
