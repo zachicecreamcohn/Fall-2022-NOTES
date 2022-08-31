@@ -26,4 +26,3 @@
 ### Psychology's First Schools of Thought
 - <u>Structuralism</u>
 - <u>Functionalism</u>
-- 
