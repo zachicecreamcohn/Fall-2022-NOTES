@@ -48,6 +48,6 @@
   - [ ] Buy *<u>The Norton Anthology of Drama</u>*
 - [ ] Buy the other books listed on Canvas
 
-#### Intro to Theater Production
+### Intro to Theater Production
 - [ ] _Due September 4th_
   - [ ] Fill out crew form again with new conflicts
