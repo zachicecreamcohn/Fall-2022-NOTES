@@ -1,8 +1,5 @@
 # Can't SSH using custom username?
-
-
-
-## The issue
+[back](../README.md)
 
 ![img](../assets/M2/ssh-custom-user-error.png)
 
