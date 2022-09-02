@@ -22,12 +22,8 @@
   - [ ] Webwork
 
 ### Intro to Psychology
-- [ ] _Due Wednesday, 8/31/22_
-  - [ ] Read syllabus
-  - [x] Buy ebook textbook
-  - [ ] Read from page 14-end of module 1 of textbook
-- [ ] _Due Friday, 9/2/22
-  - [ ] Read module 2 of textbook
+- [ ] _Due Wednesday 9/7/22_
+  - [ ] How would the various schools of thought treat tony (DID)
 
 ### Data Structures and Algorithms
 - [ ] _Due Thursday, 9/1/22_
