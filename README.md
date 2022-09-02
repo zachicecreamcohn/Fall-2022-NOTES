@@ -30,22 +30,12 @@
   - [ ] Read module 2 of textbook
 
 ### Data Structures and Algorithms
-- [ ] _Due Wednesday, 8/31/22 (by nighttime)_
-  - [x] Make sure I have access to online textbook
-  - [ ] Complete the pre-studio prep list
-  - [x] M0: Pre Lecture
-  - [x] M0: Extra Credit Reading
-  - [ ] M0: Lecture: Problems and Algorithms
-  - [ ] M0: Pre Studio Prep and Setup/Policies (quiz)
-
 - [ ] _Due Thursday, 9/1/22_
   - [ ] M0: Studio
 
 ### Theater Culture Studies
 - [ ] _ASAP_
   - [ ] Go over the assignment calendar and put them all here
-- [ ] _Due Thursday, 9/1/22_
-  - [ ] Complete discussion post assignment ("Week 1: Romanticism") on Canvas
 
 
 ### Intro to Theater Production
