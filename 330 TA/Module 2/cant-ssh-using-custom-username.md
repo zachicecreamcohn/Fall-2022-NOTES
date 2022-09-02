@@ -12,11 +12,11 @@
 
 ## Still having problems? Have no fear, the solution is (hopefully) here!
 
-If you have tried `ssh-add -l` and received an error:
-`Error connecting to agent: No such file or directory`
-<br>
-Maybe you try `ssh-add <path to id_rsa.pub` only to receive:
-`Error connecting to agent: No such file or directory`
+- If you have tried `ssh-add -l` and received an error:
+  - `Error connecting to agent: No such file or directory`
+
+- Maybe you try `ssh-add <path to id_rsa.pub` only to receive:
+  - `Error connecting to agent: No such file or directory`
 
 ## The Fix
 [solution found here](https://unix.stackexchange.com/questions/464574/ssh-add-returns-with-error-connecting-to-agent-no-such-file-or-directory)
