@@ -3,7 +3,7 @@
 
 
 ## The issue
-!![screenshot of where we encounter the issue](../assets/M2/ssh-custom-user-error.png)
+![screenshot of where we encounter the issue](../assets/M2/ssh-custom-user-error.png)
 
 ## First check...
 - You have no copy-paste errors in `~/.ssh/authorized_keys`
