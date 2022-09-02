@@ -3,7 +3,8 @@
 
 
 ## The issue
-<img src='../assets/M2/ssh-custom-user-error.png'>
+
+![img](../assets/M2/ssh-custom-user-error.png)
 
 ## First check...
 - You have no copy-paste errors in `~/.ssh/authorized_keys`
