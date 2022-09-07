@@ -26,13 +26,18 @@
   - [ ] How would the various schools of thought treat tony (DID)
 
 ### Data Structures and Algorithms
-- [ ] _Due Thursday, 9/1/22_
-  - [ ] M0: Studio
+- [ ] _Due Thursday, 9/7/22_
+  - [ ] M1: Studio Prep
+- [ ] _Due Friday, September 16th at midnight_
+  - [ ] M1 Lab
 
 ### Theater Culture Studies
 - [ ] _ASAP_
   - [ ] Go over the assignment calendar and put them all here
-
+- [ ] _Due Thursday, December 1st_
+  - [ ] Research & Annotated Bibliography
+- [ ] _Due Tuesday, December 6th_
+  - [ ] In-Class Creative Presentation
 
 ### Intro to Theater Production
 - [ ] _Due September 4th_
