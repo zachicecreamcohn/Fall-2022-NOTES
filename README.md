@@ -47,3 +47,8 @@
 ### Let's Eat
 - [ ] _Due Sunday, September 4th_
   - [ ] Use Naomi's prod calendar to make production deadlines.
+
+  
+### Voice Lessons
+- [ ] _Due Friday, September 16th
+  - [ ] Pick 2-3 glove songs
