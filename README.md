@@ -51,4 +51,4 @@
   
 ### Voice Lessons
 - [ ] _Due Friday, September 16th
-  - [ ] Pick 2-3 glove songs
+  - [ ] Pick 2-3 glove songs (style and range)
