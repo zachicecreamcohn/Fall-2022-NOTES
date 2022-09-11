@@ -14,34 +14,35 @@
 ## Homework
 
 ### Calculus
-- [ ] _Due Monday (weekly)_
-  - [ ] Watch Friday recorded Lecture
-- [ ] _Due Sunday (weekly)_
-  - [ ] Complete post-Friday lecture quiz on Canvas
+- [x] _Due Monday (weekly)_
+  - [x] Watch Friday recorded Lecture
+- [x] _Due Sunday (weekly)_
+  - [x] Complete post-Friday lecture quiz on Canvas
 - [ ] _Due Monday (weekly)_
   - [ ] Webwork
 
 ### Intro to Psychology
-- [ ] _Due Wednesday 9/7/22_
-  - [ ] How would the various schools of thought treat tony (DID)
 
 ### Data Structures and Algorithms
-- [ ] _Due Thursday, 9/7/22_
-  - [ ] M1: Studio Prep
+- [ ] _Due Monday, September 12th at midnight_
+  - [ ] Do the reading (zybooks)
+  - [ ] Do the extra credit reading (zybooks)
 - [ ] _Due Friday, September 16th at midnight_
   - [ ] M1 Lab
 
 ### Theater Culture Studies
 - [ ] _ASAP_
   - [ ] Go over the assignment calendar and put them all here
+- [ ] _Due Tuesday, September 13th
+  - [ ] Do the reading
+  - [ ] Do the response
 - [ ] _Due Thursday, December 1st_
   - [ ] Research & Annotated Bibliography
 - [ ] _Due Tuesday, December 6th_
   - [ ] In-Class Creative Presentation
 
 ### Intro to Theater Production
-- [ ] _Due September 4th_
-  - [ ] Fill out crew form again with new conflicts
+
 
 
 ### Let's Eat
@@ -50,5 +51,7 @@
 
   
 ### Voice Lessons
-- [ ] _Due Friday, September 16th
-  - [ ] Pick 2-3 glove songs (style and range)
+- [ ] _Due Wednesday, September 14th
+  - [ ] Pick 2 glove songs (style and range)
+  - [ ] Find sheet music for Hercules by Fly Away Hero
+  - [ ] Find either a punk or a country song
