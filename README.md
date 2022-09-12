@@ -14,10 +14,10 @@
 ## Homework
 
 ### Calculus
-- [x] _Due Monday (weekly)_
-  - [x] Watch Friday recorded Lecture
-- [x] _Due Sunday (weekly)_
-  - [x] Complete post-Friday lecture quiz on Canvas
+- [ ] _Due Monday (weekly)_
+  - [ ] Watch Friday recorded Lecture
+- [ ] _Due Sunday (weekly)_
+  - [ ] Complete post-Friday lecture quiz on Canvas
 - [ ] _Due Monday (weekly)_
   - [ ] Webwork
 
