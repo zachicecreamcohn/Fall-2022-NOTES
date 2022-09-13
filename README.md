@@ -25,7 +25,7 @@
 
 ### Data Structures and Algorithms
 - [ ] _Due Monday, September 12th at midnight_
-  - [ ] Do the reading (zybooks)
+  - [x] Do the reading (zybooks)
   - [ ] Do the extra credit reading (zybooks)
 - [ ] _Due Friday, September 16th at midnight_
   - [ ] M1 Lab
