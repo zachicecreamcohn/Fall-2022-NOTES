@@ -51,7 +51,13 @@
 
   
 ### Voice Lessons
-- [ ] _Due Wednesday, September 14th
+- [x] _Due Wednesday, September 14th
   - [ ] Pick 2 glove songs (style and range)
   - [ ] Find sheet music for Hercules by Fly Away Hero
   - [ ] Find either a punk or a country song
+#### Song Ideas
+- Brandy (You're a Fine Girl) | Looking Glass
+- Don't Stop (Color On The Walls) | Foster The People
+- All That and More (Sailboat) | Rainbow Kitten Surprise
+- Apartment | Young the Giant *
+- Beyond the Sea | Bobby Darin *
